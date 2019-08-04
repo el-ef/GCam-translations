@@ -27,7 +27,7 @@
     <string name="pref_qjpg_95">Mittel - 95%</string>
     <string name="pref_qjpg_100">Hoch - 100%</string>
     <string name="pref_frames_title">Anzahl der Bilder für erweitertes HDR+</string>
-    <string name="pref_frames_8">Low - 8 Bilder</string>
-    <string name="pref_frames_15">Medium - 15 Bilder</string>
-    <string name="pref_frames_25">High - 25 Bilder</string>
+    <string name="pref_frames_8">Niedrig - 8 Bilder</string>
+    <string name="pref_frames_15">Mittel - 15 Bilder</string>
+    <string name="pref_frames_25">Hoch - 25 Bilder</string>
 </resources>
